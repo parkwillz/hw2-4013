@@ -16,4 +16,5 @@ function getDisplay(){
 } else{
   return "<p>Nothing posted to the page.</p>";
 }
+}
 ?>
